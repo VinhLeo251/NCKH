@@ -1,0 +1,13 @@
+body{
+    padding-top: 0;
+    position: relative;
+}
+.banner_login{
+    background-image: url("/nckh/admin/img/login_banner.jpg");
+    max-width: 1920px;
+    height: 100%;
+}
+
+.login-panel{
+   margin-top: -600px;
+}
